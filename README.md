@@ -163,4 +163,4 @@ En local: `pip install -r requirements.txt` (hay que adaptar las rutas de Google
 ---
 
 **Autor:** Fernando Amalfitano · Bootcamp de Big Data, Inteligencia Artificial y Machine Learning
-[LinkedIn](#) · [Email](#)
+[LinkedIn](https://www.linkedin.com/in/fernando-amalfitano-051751388/) · [Email](fernandoamalfitano@gmail.com)
